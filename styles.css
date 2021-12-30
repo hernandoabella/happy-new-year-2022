@@ -1262,6 +1262,152 @@ body{
 }
 
 
+.r{
+    position: relative;
+    left: 240px;
+    top: -1135px;
+}
+
+.r div:nth-child(1){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+}
+
+.r div:nth-child(2){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -25px;
+}
+
+.r div:nth-child(3){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -5px;
+}
+
+.r div:nth-child(4){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 0px;
+}
+
+.r div:nth-child(5){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 5px;
+}
+
+.r div:nth-child(6){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -65px;
+    left: 15px;
+}
+
+.r div:nth-child(7){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -75px;
+    left: 30px;
+}
+
+.r div:nth-child(8){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -85px;
+    left: 45px;
+}
+
+.r div:nth-child(9){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -80px;
+    left: 45px;
+}
+
+.r div:nth-child(10){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -75px;
+    left: 45px;
+}
+
+.r div:nth-child(11){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -85px;
+    left: 30px;
+}
+
+.r div:nth-child(12){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -95px;
+    left: 15px;
+}
+
+.r div:nth-child(13){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -90px;
+    left: 25px;
+}
+
+.r div:nth-child(14){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -85px;
+    left: 30px;
+}
+
+.r div:nth-child(15){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -95px;
+    left: 45px;
+}
+
+.two{
+    background: var(--main-color);
+    position: relative;
+    top: -1200px;
+}
+
+.two div:nth-child(1){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+}
 
 @keyframes animation1{
     
