@@ -1013,7 +1013,7 @@ body{
 
 .e2{
     position: relative;
-    top: -610px;
+    top: -870px;
     left: 80px;
 }
 
@@ -1134,6 +1134,131 @@ body{
     position: relative;
     top: -70px;
     left: 45px;
+}
+
+.a2{
+    position: relative;
+    left: 80px;
+    top: -120px;
+}
+
+.a2 div:nth-child(1){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+}
+
+.a2 div:nth-child(2){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 5px;
+}
+
+.a2 div:nth-child(3){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.a2 div:nth-child(4){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 15px;
+}
+
+.a2 div:nth-child(5){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 20px;
+}
+
+.a2 div:nth-child(6){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -20px;
+    left: 15px;
+}
+
+.a2 div:nth-child(7){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -30px;
+    left: 30px;
+}
+
+.a2 div:nth-child(8){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -70px;
+    left: 45px;
+}
+
+.a2 div:nth-child(9){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -65px;
+    left: 45px;
+}
+
+.a2 div:nth-child(10){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -60px;
+    left: 45px;
+}
+
+.a2 div:nth-child(11){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -55px;
+    left: 45px;
+}
+
+.a2 div:nth-child(12){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -50px;
+    left: 45px;
+}
+
+.a2 div:nth-child(13){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -120px;
+    left: 15px;
+}
+
+.a2 div:nth-child(14){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -130px;
+    left: 30px;
 }
 
 
