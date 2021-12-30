@@ -496,8 +496,27 @@ body{
     width: 10px;
     height: 10px;
     position: relative;
-    top: -5px;
+    top: 0px;
     left: 22.5px;
 }
+
+.y div:nth-child(8){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -55px;
+    left: 0px;
+}
+
+.y div:nth-child(9){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -65px;
+    left: 45px;
+}
+
 
 
