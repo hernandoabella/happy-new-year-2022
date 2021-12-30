@@ -1011,19 +1011,19 @@ body{
     left: 45px;
 }
 
-.e{
+.e2{
     position: relative;
     top: -610px;
     left: 80px;
 }
 
-.e div:nth-child(1){
+.e2 div:nth-child(1){
     background: var(--main-color);
     width: 10px;
     height: 10px;
 }
 
-.e div:nth-child(2){
+.e2 div:nth-child(2){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1031,7 +1031,7 @@ body{
     top: 5px;
 }
 
-.e div:nth-child(3){
+.e2 div:nth-child(3){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1039,7 +1039,7 @@ body{
     top: 10px;
 }
 
-.e div:nth-child(4){
+.e2 div:nth-child(4){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1047,7 +1047,7 @@ body{
     top: 15px;
 }
 
-.e div:nth-child(5){
+.e2 div:nth-child(5){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1055,7 +1055,7 @@ body{
     top: 20px;
 }
 
-.e div:nth-child(6){
+.e2 div:nth-child(6){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1064,7 +1064,7 @@ body{
     left: 15px;
 }
 
-.e div:nth-child(7){
+.e2 div:nth-child(7){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1073,7 +1073,7 @@ body{
     left: 30px;
 }
 
-.e div:nth-child(8){
+.e2 div:nth-child(8){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1082,7 +1082,7 @@ body{
     left: 45px;
 }
 
-.e div:nth-child(9){
+.e2 div:nth-child(9){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1091,7 +1091,7 @@ body{
     left: 15px;
 }
 
-.e div:nth-child(10){
+.e2 div:nth-child(10){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1100,7 +1100,7 @@ body{
     left: 30px;
 }
 
-.e div:nth-child(11){
+.e2 div:nth-child(11){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1109,7 +1109,7 @@ body{
     left: 45px;
 }
 
-.e div:nth-child(12){
+.e2 div:nth-child(12){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1118,7 +1118,7 @@ body{
     left: 15px;
 }
 
-.e div:nth-child(13){
+.e2 div:nth-child(13){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1127,7 +1127,7 @@ body{
     left: 30px;
 }
 
-.e div:nth-child(14){
+.e2 div:nth-child(14){
     background: var(--main-color);
     width: 10px;
     height: 10px;
@@ -1135,6 +1135,8 @@ body{
     top: -70px;
     left: 45px;
 }
+
+
 
 @keyframes animation1{
     
