@@ -438,3 +438,66 @@ body{
     top: -95px;
     left: 15px;
 }
+
+.y div:nth-child(1){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+}
+
+.y div:nth-child(2){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 5px;
+    left: 15px;
+}
+
+.y div:nth-child(3){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 10px;
+    left: 22.5px;
+}
+
+.y div:nth-child(4){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -15px;
+    left: 30px;
+}
+
+.y div:nth-child(5){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -40px;
+    left: 45px;
+}
+
+.y div:nth-child(6){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -5px;
+    left: 22.5px;
+}
+
+.y div:nth-child(7){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -5px;
+    left: 22.5px;
+}
+
+
