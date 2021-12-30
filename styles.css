@@ -1,0 +1,105 @@
+:root{
+    --main-color: rgb(29, 177, 100);
+}
+
+.h div:nth-child(1){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+}
+
+.h div:nth-child(2){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 5px;
+}
+
+.h div:nth-child(3){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.h div:nth-child(4){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 15px;
+}
+
+.h div:nth-child(5){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 20px;
+}
+
+.h div:nth-child(6){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -20px;
+    left: 15px;
+}
+
+.h div:nth-child(7){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -30px;
+    left: 30px;
+}
+
+.h div:nth-child(8){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -70px;
+    left: 45px;
+}
+
+.h div:nth-child(9){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -65px;
+    left: 45px;
+}
+
+.h div:nth-child(10){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -60px;
+    left: 45px;
+}
+
+.h div:nth-child(11){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -55px;
+    left: 45px;
+}
+
+.h div:nth-child(12){
+    background: var(--main-color);
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: -50px;
+    left: 45px;
+}
+
