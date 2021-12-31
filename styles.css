@@ -1,9 +1,5 @@
 :root{
     --main-color: rgb(29, 177, 51);
-    --color-2: blue;
-    --color-3: green;
-    --color-4: red;
-    --color-5: yellow;
 }
 
 *{
@@ -33,7 +29,10 @@ body{
 
 .container div div{
     box-shadow: var(--main-color) 2px 2px 10px;
-    animation: animation1 3s;
+    animation: animation1 5s;
+    animation-delay: 1s;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    animation-iteration-count: infinite;
 }
 
 .h div:nth-child(1){
@@ -1926,11 +1925,62 @@ body{
 }
 
 @keyframes animation1{
+
+    0%{
+        background: rgb(174, 16, 177);
+        box-shadow: rgb(174, 16, 177) 2px 2px 10px;
+    }
+
+    10%{
+        background: rgb(177, 16, 45);
+        box-shadow: rgb(177, 16, 45) 2px 2px 10px;
+    }
+
+    20%{
+        background: rgb(144, 210, 14);
+        box-shadow: rgb(144, 210, 14) 2px 2px 10px;
+    }
+
+    30%{
+        background: rgb(63, 255, 242);
+        box-shadow: rgb(63, 255, 242) 2px 2px 10px;
+    }
+
+    40%{
+        background: rgb(204, 217, 255);
+        box-shadow: rgb(204, 217, 255) 2px 2px 10px;
+    }
     
     50%{
-        transform: scale(1) skew(360deg) rotate(360deg);
+        transform: scale(2) skew(-360deg) rotate(360deg) translate(50px);
         opacity: .5;
         background: rgb(16, 16, 177);
+        border-radius: 100%;
+    }
+
+    60%{
+        background: rgb(83, 250, 164);
+        box-shadow: rgb(204, 217, 255) 2px 2px 10px;
+    }
+
+    70%{
+        background: rgb(204, 217, 255);
+        box-shadow: rgb(204, 217, 255) 2px 2px 10px;
+    }
+
+    80%{
+        background: rgb(144, 210, 14);
+        box-shadow: rgb(204, 217, 255) 2px 2px 10px;
+    }
+
+    90%{
+        background: rgb(242, 255, 2);
+        box-shadow: rgb(204, 217, 255) 2px 2px 10px;
+    }   
+
+    100%{
+        background: rgb(210, 14, 197);
+        box-shadow: rgb(204, 217, 255) 2px 2px 10px;
     }
     
 }
